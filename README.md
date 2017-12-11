@@ -1,20 +1,8 @@
-<<<<<<< HEAD
-Composer Library Template
-=========================
-
-If you are trying to create a new PHP Composer library, whether it will be going to submitted to packagist.org or just in your Github account, this template of files will surely help you make the process a lot easier and faster.
+Redribera Stuff Library composer php tests
+============================================
 
 Features
 --------
 
-* PSR-4 autoloading compliant structure
-* Unit-Testing with PHPUnit
-* Comprehensive Guides and tutorial
-* Easy to use to any framework or even a plain php file
+Random stuff
 
-
-I encourage that you put more information on this readme file instead of leaving it as is. See [http://www.darwinbiler.com/designing-and-making-the-readme-file-for-your-github-repository/](How to make a README file) for more info.
-=======
-# randstuff
-Randstuff PHP Library
->>>>>>> 9541c9ab6f11a117a65cda8d501817e6b1c00a64
