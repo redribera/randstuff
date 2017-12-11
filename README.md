@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Composer Library Template
 =========================
 
@@ -13,3 +14,7 @@ Features
 
 
 I encourage that you put more information on this readme file instead of leaving it as is. See [http://www.darwinbiler.com/designing-and-making-the-readme-file-for-your-github-repository/](How to make a README file) for more info.
+=======
+# randstuff
+Randstuff PHP Library
+>>>>>>> 9541c9ab6f11a117a65cda8d501817e6b1c00a64
